@@ -1,6 +1,0 @@
-*.pdf
-!hello.pdf
-!hi.pdf
-*.txt
-nodemodules/*
-test.txt
